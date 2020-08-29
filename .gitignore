@@ -1,6 +1,49 @@
-.vs/*
 /packages/*
 /Dll chemdraw/*
 Class1.cs
 /LabNotebookAddin/Resources/indigo-dotnet-1.2.3.r0-win/*
 /LabNotebookAddin/Resources/IndigoELN-1.2-src/*
+
+
+# from https://gist.github.com/takekazuomi/10955889
+# Visual Studio files
+.vs/*
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.svclog
+*.scc
