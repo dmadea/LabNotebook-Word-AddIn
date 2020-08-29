@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>bingo-dotnet</name>
+    </assembly>
+    <members>
+        <member name="T:com.epam.indigo.Bingo">
+            <summary>
+            Bingo instance corresponds to a single chemical database
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.Finalize">
+            <summary>
+            Destructor
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.Dispose">
+            <summary>
+            Dispose method that closes the database
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.close">
+            <summary>
+            Method to close a database
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.createDatabaseFile(com.epam.indigo.Indigo,System.String,System.String,System.String)">
+            <summary>
+            Creates a chemical storage of a specifed type in a specified location
+            </summary>
+            <param name="indigo">Indigo instance</param>
+            <param name="location">Directory with the files location</param>
+            <param name="type">"molecule" or "reaction"</param>
+            <param name="options">Additional options separated with a semicolon. See the Bingo documentation for more details.</param>
+            <returns>Bingo database instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.createDatabaseFile(com.epam.indigo.Indigo,System.String,System.String)">
+            <summary>
+            Creates a chemical storage of a specifed type in a specified location
+            </summary>
+            <param name="indigo">Indigo instance</param>
+            <param name="location">Directory with the files location</param>
+            <param name="type">"molecule" or "reaction"</param>
+            <returns>Bingo database instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.loadDatabaseFile(com.epam.indigo.Indigo,System.String,System.String)">
+            <summary>
+            Loads a chemical storage of a specifed type from a specified location
+            </summary>
+            <param name="indigo">Indigo instance</param>
+            <param name="location">Directory with the files location</param>
+            <param name="options">Additional options separated with a semicolon. See the Bingo documentation for more details.</param>
+            <returns>Bingo database instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.loadDatabaseFile(com.epam.indigo.Indigo,System.String)">
+            <summary>
+            Loads a chemical storage of a specifed type from a specified location
+            </summary>
+            <param name="indigo">Indigo instance</param>
+            <param name="location">Directory with the files location</param>
+            <returns>Bingo database instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.insert(com.epam.indigo.IndigoObject)">
+            <summary>
+            Insert a structure into the database and returns id of this structure
+            </summary>
+            <param name="record">Indigo object with a chemical structure (molecule or reaction)</param>
+            <returns>record id</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.insert(com.epam.indigo.IndigoObject,System.Int32)">
+            <summary>
+            Inserts a structure under a specified id
+            </summary>
+            <param name="record">Indigo object with a chemical structure (molecule or reaction)</param>
+            <param name="id">record id</param>
+            <returns> inserted record id</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.delete(System.Int32)">
+            <summary>
+            Delete a record by id
+            </summary>
+            <param name="id">Record id</param>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchSub(com.epam.indigo.IndigoObject,System.String)">
+            <summary>
+            Execute substructure search operation
+            </summary>
+            <param name="query">Indigo query object (molecule or reaction)</param>
+            <param name="options">Search options</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchSub(com.epam.indigo.IndigoObject)">
+            <summary>
+            Execute substructure search operation
+            </summary>
+            <param name="query">Indigo query object (molecule or reaction)</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchSim(com.epam.indigo.IndigoObject,System.Single,System.Single,System.String)">
+            <summary>
+            Execute similarity search operation
+            </summary>
+            <param name="query">indigo object (molecule or reaction)</param>
+            <param name="min">Minimum similarity value</param>
+            <param name="max">Maximum similairy value</param>
+            <param name="metric">Default value is "tanimoto"</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchSim(com.epam.indigo.IndigoObject,System.Single,System.Single)">
+            <summary>
+            Execute similarity search operation
+            </summary>
+            <param name="query">indigo object (molecule or reaction)</param>
+            <param name="min">Minimum similarity value</param>
+            <param name="max">Maximum similairy value</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.enumerateId">
+            <summary>
+            Execute enumerate id operation
+            </summary>
+            <returns>Bingo enumerate id object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchExact(com.epam.indigo.IndigoObject)">
+            <summary>
+            Perform exact search operation
+            </summary>
+            <param name="query">indigo object (molecule or reaction)</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchExact(com.epam.indigo.IndigoObject,System.String)">
+            <summary>
+            Perform exact search operation
+            </summary>
+            <param name="query">indigo object (molecule or reaction)</param>
+            <param name="options">exact search options</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchMolFormula(System.String,System.String)">
+            <summary>
+            Perform search by molecular formula
+            </summary>
+            <param name="query">string with formula to search. For example, 'C22 H23 N3 O2'.</param>
+            <param name="options">search options</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.searchMolFormula(System.String)">
+            <summary>
+            Perform search by molecular formula
+            </summary>
+            <param name="query">string with formula to search. For example, 'C22 H23 N3 O2'.</param>
+            <returns>Bingo search object instance</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.optimize">
+            <summary>
+            Post-process index optimization
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.getRecordById(System.Int32)">
+            <summary>
+            Returns an IndigoObject for the record with the specified id
+            </summary>
+            <param name="id">record id</param>
+            <returns>Indigo object</returns>
+        </member>
+        <member name="M:com.epam.indigo.Bingo.version">
+            <summary>
+            Returns Bingo version
+            </summary>
+            <returns>Bingo version</returns>
+        </member>
+        <member name="T:com.epam.indigo.BingoException">
+            <summary>
+            Bingo exception
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoException.#ctor">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoException.#ctor(System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoException.#ctor(System.String,System.Exception)">
+            <summary>
+            </summary>
+        </member>
+        <member name="T:com.epam.indigo.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:com.epam.indigo.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:com.epam.indigo.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:com.epam.indigo.BingoObject">
+            <summary>
+            Bingo search object
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.Finalize">
+            <summary>
+            Destructor
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.Dispose">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.close">
+            <summary>
+            Close method
+            </summary>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.next">
+            <summary>
+            Method to move to the next record
+            </summary>
+            <returns>True if there are any more records</returns>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.getCurrentId">
+            <summary>
+            Method to return current record id. Should be called after next() method.
+            </summary>
+            <returns>Record id</returns>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.getCurrentSimilarityValue">
+            <summary>
+            Method to return current similarity value. Should be called after next() method.
+            </summary>
+            <returns>Similarity value</returns>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.getIndigoObject">
+            <summary>
+            Returns a shared IndigoObject for the matched target
+            </summary>
+            <returns>Shared Indigo object for the current search operation</returns>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.estimateRemainingResultsCount">
+            <summary>
+            Method to estimate remaining hits count
+            </summary>
+            <returns>Estimated hits count</returns>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.estimateRemainingResultsCountError">
+            <summary>
+            Method to estimate remaining hits count error
+            </summary>
+            <returns>Estimated hits count error</returns>
+        </member>
+        <member name="M:com.epam.indigo.BingoObject.estimateRemainingTime">
+            <summary>
+            Method to estimate remaining search time
+            </summary>
+            <returns>Estimated remainin search time</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReagentsDatabaseInfo>
+  <Databases>
+    <Database Name="IndigoELN" Display_Name="Indigo ELN" Visible="true" Datasource="dataSource">
+      <Tables>
+        <Table Name="cen_batches">
+          <Search_Fields>
+            <Field Column_Name="cen_batches.batch_number" Display_Name="Batch Number" Data_Type="String">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+            </Field>
+            <Field Column_Name="cen_batches.molecular_formula" Display_Name="Molecular formula" Data_Type="String" Use_Upper="false">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+            </Field>
+            <Field Column_Name="cen_batches.batch_mw_value" Display_Name="Molecular weight" Data_Type="Double">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Greater Than"/>
+                <Search_Condition Display_Name="Less Than"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Greater Than Or Equals"/>
+                <Search_Condition Display_Name="Less Than Or Equals"/>
+              </Search_Conditions>
+            </Field>
+          </Search_Fields>
+          <Result_Fields>
+            <Field Column_Name="cen_batches.batch_number" Display_Name="Batch Number" Data_Type="String"/>
+            <Field Column_Name="cen_batches.molecular_formula" Display_Name="Molecular Formula" Data_Type="String"/>
+            <Field Column_Name="cen_batches.batch_mw_value" Display_Name="Molecular Weight" Data_Type="Double"/>
+            <Field Column_Name="cen_batches.batch_type" Display_Name="Reagent Type" Data_Type="String"/>
+            <Field Column_Name="cen_batches.salt_code" Display_Name="Salt Code" Data_Type="String"/>
+            <Field Column_Name="cen_batches.salt_equivs" Display_Name="Salt Equivs" Data_Type="Double"/>
+          </Result_Fields>
+        </Table>
+        <Table Name="cen_registered_batches">
+          <Search_Fields>
+            <Field Column_Name="cen_registered_batches.parent_batch_number" Display_Name="External #" Data_Type="String">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+            </Field>
+            <Field Column_Name="cen_registered_batches.compound_state" Display_Name="Compound State" Data_Type="String">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+            </Field>
+            <Field Column_Name="cen_registered_batches.batch_comments" Display_Name="Batch Comment" Data_Type="String">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+            </Field>
+            <Field Column_Name="cen_registered_batches.batch_hazard_comment" Display_Name="Batch Hazard Comment" Data_Type="String">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+            </Field>
+          </Search_Fields>
+          <Result_Fields>
+            <Field Column_Name="cen_registered_batches.compound_state" Display_Name="Compound State" Data_Type="String"/>
+            <Field Column_Name="cen_registered_batches.batch_comments" Display_Name="Batch Comment" Data_Type="String"/>
+            <Field Column_Name="cen_registered_batches.batch_hazard_comment" Display_Name="Batch Hazard Comment" Data_Type="String"/>
+            <Field Column_Name="cen_registered_batches.parent_batch_number" Display_Name="External #" Data_Type="String"/>
+          </Result_Fields>
+        </Table>
+      <Table Name="cen_structures">
+        <Search_Fields>
+            <Field Column_Name="cen_structures.cas_number" Display_Name="CAS Number" Data_Type="String">
+              <Search_Conditions>
+                <Search_Condition Display_Name="Contains"/>
+                <Search_Condition Display_Name="Equals"/>
+                <Search_Condition Display_Name="Starts With"/>
+                <Search_Condition Display_Name="Ends With"/>
+              </Search_Conditions>
+           </Field>
+        </Search_Fields>
+        <Result_Fields>
+            <!-- Field Column_Name="UTL_RAW.CAST_TO_VARCHAR2(DBMS_LOB.SUBSTR(CEN_STRUCTURES.NATIVE_STRUCT_SKETCH, 32000, 1)) as NATIVE_STRUCT_SKETCH" Display_Name="Structure" Data_Type="String"/ -->
+            <Field Column_Name="cen_structures.native_struct_sketch" Display_Name="Structure" Data_Type="String"/>
+            <Field Column_Name="cen_structures.cas_number" Display_Name="CAS Number" Data_Type="String"/>
+            <Field Column_Name="cen_structures.compound_name" Display_Name="Reagent Name" Data_Type="String"/>
+            <Field Column_Name="cen_structures.molecular_formula AS parent_molecular_formula" Display_Name="Parent Molecular Formula" Data_Type="String"/>
+            <Field Column_Name="cen_structures.molecular_weight AS parent_molecular_weight" Display_Name="Parent Molecular Weight" Data_Type="Double"/>
+        </Result_Fields>
+      </Table>
+      </Tables>
+      <Table_Relationships>
+        <Table_Relationship Relation=" cen_batches.batch_key = cen_registered_batches.batch_key AND cen_batches.struct_key = cen_structures.struct_key "/>
+      </Table_Relationships>
+    </Database>
+  </Databases>
+  <MyReagents_Mandatory_Result_Fields>
+    <Field Display_Name="Batch Number" DataType="string"/>
+    <Field Display_Name="Reagent Name" DataType="string"/>
+    <Field Display_Name="External #" DataType="string"/>
+    <Field Display_Name="CAS Number" DataType="string"/>
+    <Field Display_Name="Internal Registry #" DataType="string"/>
+    <Field Display_Name="Molecular Formula" DataType="string"/>
+    <Field Display_Name="Molecular Weight" DataType="number"/>
+    <Field Display_Name="Purity" DataType="number"/>
+    <Field Display_Name="Density" DataType="number"/>
+    <Field Display_Name="Concentration" DataType="number"/>
+    <Field Display_Name="Reagent Type" DataType="string" Combo="Reagent|Solvent|Reactant"/>
+    <Field Display_Name="Resin Loading" DataType="number"/>
+    <Field Display_Name="Salt Code" DataType="string"/>
+    <Field Display_Name="Salt Equivs" DataType="number"/>
+    <Field Display_Name="Batch Comment" DataType="string"/>
+    <Field Display_Name="Batch Hazard Comment" DataType="string"/>
+    <Field Display_Name="Parent Molecular Weight" DataType="number"/>
+    <Field Display_Name="Parent Molecular Formula" DataType="string"/>
+    <Field Display_Name="Melting Point" DataType="string"/>
+    <Field Display_Name="Boiling Point" DataType="string"/>
+    <Field Display_Name="Compound State" DataType="string"/>
+  </MyReagents_Mandatory_Result_Fields>
+  <Text_Structure_Relationships>
+    <Text_Structure_Relationship Text="IndigoELN" Structure="IndigoELN" Relation="cen_registered_batches.parent_batch_number"/>
+  </Text_Structure_Relationships>
+</ReagentsDatabaseInfo>

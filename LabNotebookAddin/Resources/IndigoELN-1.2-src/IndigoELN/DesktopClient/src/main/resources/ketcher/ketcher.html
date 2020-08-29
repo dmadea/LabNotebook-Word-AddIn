@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="/script.js"></script>
+		<title>
+			Sketcher for Indigo ELN
+		</title>
+	</head>
+	<body onload="getInputMolFile()" onunload="returnToEln()">
+
+		<input type="button" value="Save and close" onclick="sendOutputFileAndClose();" style="font-size:medium;"/>
+		
+		<span id="elnMolInfo" style="font-size:medium;">
+			Information here
+		</span>
+		
+		<br><br>
+		
+		<iframe frameBorder="0" id="ifKetcher" src="/ketcher_1.0_b5/ketcher.html" width="800" height="600"></iframe>
+	</body>
+</html>

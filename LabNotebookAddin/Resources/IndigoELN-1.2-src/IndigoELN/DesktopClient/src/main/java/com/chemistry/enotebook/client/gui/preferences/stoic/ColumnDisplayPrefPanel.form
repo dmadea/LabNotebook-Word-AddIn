@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Form style="Swing" ide="eclipse" builder="jigloo" version="2.7.2">
+<NonVisualComponents>
+		<Component class="java.lang.Object" name="object1">
+			<Constraints>
+				<LayoutConstraint/>
+			</Constraints>
+			<Properties>
+			</Properties>
+		</Component></NonVisualComponents>
+	<Component class="javax.swing.JPanel" name="ColumnDisplayPrefPanel">
+		<Constraints>
+			<LayoutConstraint/>
+		</Constraints>
+		<Layout class="Border">
+			<Property name="hgap" type="int" value="0"/>
+			<Property name="vgap" type="int" value="0"/>
+		</Layout>
+		<Events>
+		</Events>
+		<Properties>
+			<Property name="preferredSize" type="Dimension">
+				<Dimension value="[537, 284]"/>
+			</Property>
+			<Property name="bounds" type="Rectangle">
+				<Rectangle value="[0, 0, 537, 284]"/>
+			</Property>
+		</Properties>
+		<SubComponents>
+			<Component class="javax.swing.JScrollPane" name="jScrollPaneColumnPref">
+				<Constraints>
+					<Constraint direction="Center"/>
+					<LayoutConstraint>
+						<Property name="direction" type="String" value="Center"/>
+					</LayoutConstraint>
+				</Constraints>
+				<Events>
+				</Events>
+				<Properties>
+				</Properties>
+				<SubComponents>
+					<Component class="javax.swing.JPanel" name="jPanelColumnPref">
+						<Constraints>
+							<LayoutConstraint/>
+						</Constraints>
+						<Layout class="Border">
+							<Property name="hgap" type="int" value="0"/>
+							<Property name="vgap" type="int" value="0"/>
+						</Layout>
+						<Events>
+						</Events>
+						<Properties>
+							<Property name="preferredSize" type="Dimension">
+								<Dimension value="[534, 281]"/>
+							</Property>
+							<Property name="bounds" type="Rectangle">
+								<Rectangle value="[0, 0, 534, 281]"/>
+							</Property>
+						</Properties>
+						<SubComponents>
+							<Component class="javax.swing.JLabel" name="jLabel1">
+								<Constraints>
+									<Constraint direction="North"/>
+									<LayoutConstraint>
+										<Property name="direction" type="String" value="North"/>
+									</LayoutConstraint>
+								</Constraints>
+								<Events>
+								</Events>
+								<Properties>
+									<Property name="text" type="String" value="1. Display Order, Column Display Name, and Property Setups"/>
+								</Properties>
+							</Component>
+							<Component class="javax.swing.JPanel" name="jPanelColumnPrefTable">
+								<Constraints>
+									<Constraint direction="West"/>
+									<LayoutConstraint>
+										<Property name="direction" type="String" value="West"/>
+									</LayoutConstraint>
+								</Constraints>
+								<Layout class="Border">
+									<Property name="hgap" type="int" value="0"/>
+									<Property name="vgap" type="int" value="0"/>
+								</Layout>
+								<Events>
+								</Events>
+								<Properties>
+									<Property name="preferredSize" type="Dimension">
+										<Dimension value="[477, 265]"/>
+									</Property>
+									<Property name="bounds" type="Rectangle">
+										<Rectangle value="[0, 16, 477, 265]"/>
+									</Property>
+								</Properties>
+								<SubComponents>
+									<Component class="javax.swing.JScrollPane" name="jScrollPane1">
+										<Constraints>
+											<Constraint direction="Center"/>
+											<LayoutConstraint>
+												<Property name="direction" type="String" value="Center"/>
+											</LayoutConstraint>
+										</Constraints>
+										<Events>
+										</Events>
+										<Properties>
+										</Properties>
+										<SubComponents>
+											<Component class="com.chemistry.enotebook.client.gui.preferences.stoic.StoicColumnPrefViewer" name="stoicColumnPrefViewer">
+												<Constraints>
+													<LayoutConstraint/>
+												</Constraints>
+												<Events>
+												</Events>
+												<Properties>
+													<Property name="bounds" type="Rectangle">
+														<Rectangle value="[0, 0, 600, 80]"/>
+													</Property>
+												</Properties>
+											</Component>
+										</SubComponents>
+									</Component>
+								</SubComponents>
+							</Component>
+							<Component class="javax.swing.JPanel" name="jPanelButtons">
+								<Constraints>
+									<Constraint direction="Center"/>
+									<LayoutConstraint>
+										<Property name="direction" type="String" value="Center"/>
+									</LayoutConstraint>
+								</Constraints>
+								<Events>
+								</Events>
+								<Properties>
+								</Properties>
+								<SubComponents>
+									<Component class="javax.swing.JButton" name="jButton1">
+										<Constraints>
+											<LayoutConstraint/>
+										</Constraints>
+										<Events>
+											<EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" handler="jButton1ActionPerformed"/>
+										</Events>
+										<Properties>
+											<Property name="text" type="String" value="Up"/>
+										</Properties>
+									</Component>
+									<Component class="javax.swing.JButton" name="jButton2">
+										<Constraints>
+											<LayoutConstraint/>
+										</Constraints>
+										<Events>
+											<EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" handler="jButton2ActionPerformed"/>
+										</Events>
+										<Properties>
+											<Property name="text" type="String" value="Dn"/>
+										</Properties>
+									</Component>
+								</SubComponents>
+							</Component>
+						</SubComponents>
+					</Component>
+				</SubComponents>
+			</Component>
+		</SubComponents>
+	</Component>
+</Form>

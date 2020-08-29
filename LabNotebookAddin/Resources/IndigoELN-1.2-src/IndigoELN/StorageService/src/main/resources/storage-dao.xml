@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd">
+
+    <bean id="serviceLocator" class="com.chemistry.enotebook.servicelocator.ServiceLocator" factory-method="getInstance"/>
+    <bean id="dataSource" factory-bean="serviceLocator" factory-method="defaultDataSource"/>
+
+	<bean id="factoryDAO" class="com.chemistry.enotebook.storage.dao.DAOFactory">
+		<property name="notebookDAO" ref="notebookDAO"/>
+		<property name="structureSearchDAO" ref="structureSearchDAO"/>
+		<property name="notebookSearchDAO" ref="notebookSearchDAO"/>
+		<property name="notebookLoadDAO" ref="notebookLoadDAO"/>
+		<property name="notebookUpdateDAO" ref="notebookUpdateDAO"/>
+		<property name="notebookRemoveDAO" ref="notebookRemoveDAO"/>
+		<property name="notebookInsertDAO" ref="notebookInsertDAO"/>
+		<property name="containerDAO" ref="containerDAO"/>
+		<property name="plateDAO" ref="plateDAO"/>
+		<property name="analysisDAO" ref="analysisDAO"/>
+		<property name="attachmentDAO" ref="attachmentDAO"/>
+		<property name="croPageDAO" ref="croPageDAO"/>
+		<property name="monomerBatchDAO" ref="monomerBatchDAO"/>
+		<property name="productBatchDAO" ref="productBatchDAO"/>
+		<property name="jobDAO" ref="jobDAO"/>
+		<property name="notebookManager" ref="notebookManager"/>
+		<property name="transactionManager" ref="transactionManager"/>
+		<property name="procedureImageDAO" ref="procedureImageDAO"/>
+	</bean>
+
+	<bean id="notebookDAO" class="com.chemistry.enotebook.storage.dao.NotebookDAO">
+		<property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="structureSearchDAO" class="com.chemistry.enotebook.storage.dao.StructureSearchDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="notebookSearchDAO" class="com.chemistry.enotebook.storage.dao.NotebookSearchDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="notebookLoadDAO" class="com.chemistry.enotebook.storage.dao.NotebookLoadDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="notebookUpdateDAO" class="com.chemistry.enotebook.storage.dao.NotebookUpdateDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="notebookRemoveDAO" class="com.chemistry.enotebook.storage.dao.NotebookRemoveDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="notebookInsertDAO" class="com.chemistry.enotebook.storage.dao.NotebookInsertDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="containerDAO" class="com.chemistry.enotebook.storage.dao.ContainerDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="plateDAO" class="com.chemistry.enotebook.storage.dao.PlateDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="croPageDAO" class="com.chemistry.enotebook.storage.dao.CroPageDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="monomerBatchDAO" class="com.chemistry.enotebook.storage.dao.MonomerBatchDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="productBatchDAO" class="com.chemistry.enotebook.storage.dao.ProductBatchDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="analysisDAO" class="com.chemistry.enotebook.storage.dao.AnalysisDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="attachmentDAO" class="com.chemistry.enotebook.storage.dao.AttachmentDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="jobDAO" class="com.chemistry.enotebook.storage.dao.JobDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<bean id="procedureImageDAO" class="com.chemistry.enotebook.storage.dao.ProcedureImageDAO">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+	</bean>
+
+	<bean id="notebookManager" class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
+		<property name="transactionManager" ref="transactionManager"/>
+		<property name="target" ref="notebookDAO"/>
+		<property name="transactionAttributes">
+			<props>
+				<!-- <prop key="insertNotebookPage*"> PROPAGATION_REQUIRED, ISOLATION_READ_COMMITTED 
+					</prop> <prop key="updateNotebookPage*"> PROPAGATION_REQUIRED, ISOLATION_READ_COMMITTED 
+					</prop> <prop key="deletePlates*"> PROPAGATION_REQUIRED, ISOLATION_READ_COMMITTED 
+					</prop> -->
+			</props>
+		</property>
+	</bean>
+
+</beans>

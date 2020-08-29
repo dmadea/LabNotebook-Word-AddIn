@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReagentsDatabaseInfo>
+	<Databases>
+		<Database Display_Name="MDL ACD" Name="CPI" Visible="true" DatasourceJNDI="com.enotebook.pool4_cpi">
+			<Tables>
+				<Table Name="cpiwww.CHEMICAL">
+					<Search_Fields>
+						<Field Column_Name="CHEMICAL.CH_MDLNUM" Display_Name="External #" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+						<Field Column_Name="CHEMICAL.CH_MFRML" Display_Name="Molecular Formula" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+						<Field Column_Name="CHEMICAL.CH_MWGT" Display_Name="Molecular Weight" Data_Type="Double">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Greater Than"/>
+								<Search_Condition Display_Name="Less Than"/>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Greater Than Or Equals"/>
+								<Search_Condition Display_Name="Less Than Or Equals"/>
+							</Search_Conditions>
+						</Field>
+						<Field Column_Name="CHEMICAL.CH_PRNM" Display_Name="Chemical Name" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+						<Field Column_Name="CHEMICAL.CH_CASRN" Display_Name="CAS Number" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+					</Search_Fields>
+					<Result_Fields>
+						<Field Column_Name="CHEMICAL.CH_PRNM AS REAGENT_NAME" Display_Name="Reagent Name" Data_Type="String"/>
+						<Field Column_Name="CHEMICAL.CH_MDLNUM" Display_Name="External #" Data_Type="String"/>
+						<Field Column_Name="CHEMICAL.CH_CASRN" Display_Name="CAS Number" Data_Type="String"/>
+						<Field Column_Name="CHEMICAL.CH_MFRML" Display_Name="Molecular Formula" Data_Type="String"/>
+						<Field Column_Name="CHEMICAL.CH_MWGT" Display_Name="Molecular Weight" Data_Type="Double"/>
+					</Result_Fields>
+				</Table>
+			</Tables>
+			<Table_Relationships>
+				<Table_Relationship Relation="NULL"/>
+			</Table_Relationships>
+		</Database>
+		<Database Name="CompoundManagement" Display_Name="Surplus Chemical Stockroom" Visible="true" DatasourceJNDI="com.enotebook.pool2_compoundmanagement">
+			<Tables>
+				<Table Name="COMPOUND_MANAGEMENT_BATCH">
+					<Search_Fields>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.COMPOUND_NUMBER" Display_Name="Internal Registry #" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.MOLECULAR_FORMULA" Display_Name="Molecular Formula" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.MOLECULAR_WEIGHT" Display_Name="Molecular Weight" Data_Type="Double">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Greater Than"/>
+								<Search_Condition Display_Name="Less Than"/>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Greater Than Or Equals"/>
+								<Search_Condition Display_Name="Less Than Or Equals"/>
+							</Search_Conditions>
+						</Field>
+					</Search_Fields>
+					<Result_Fields>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.COMPOUND_NUMBER" Display_Name="Internal Registry #" Data_Type="String"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.MOLECULAR_FORMULA" Display_Name="Molecular Formula" Data_Type="String"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.MOLECULAR_WEIGHT" Display_Name="Molecular Weight" Data_Type="Double"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.PARENT_MOLECULAR_FORMULA" Display_Name="Parent Molecular Formula" Data_Type="String"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.PARENT_MOLECULAR_WEIGHT" Display_Name="Parent Molecular Weight" Data_Type="Double"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.COMPOUND_PARENT" Display_Name="Compound Parent" Data_Type="String"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.SALT_CODE" Display_Name="Salt Code" Data_Type="String"/>
+						<Field Column_Name="COMPOUND_MANAGEMENT_BATCH.CHIRALITY_CODE" Display_Name="Chirality Code" Data_Type="String"/>
+					</Result_Fields>
+				</Table>
+				<Table Name="COMPOUND_MANAGEMENT_NAME">
+					<Search_Fields>
+						<Field Column_Name="COMPOUND_MANAGEMENT_NAME.COMPOUND_NAME" Display_Name="Chemical Name" Data_Type="String">
+							<Search_Conditions>
+								<Search_Condition Display_Name="Contains"/>
+								<Search_Condition Display_Name="Equals"/>
+								<Search_Condition Display_Name="Starts With"/>
+								<Search_Condition Display_Name="Ends With"/>
+							</Search_Conditions>
+						</Field>
+					</Search_Fields>
+					<Result_Fields>
+						<Field Column_Name="COMPOUND_MANAGEMENT_NAME.COMPOUND_NAME AS REAGENT_NAME" Display_Name="Reagent Name" Data_Type="String"/>
+					</Result_Fields>
+				</Table>
+			</Tables>
+			<Table_Relationships>
+				<Table_Relationship Relation="COMPOUND_MANAGEMENT_NAME.COMPOUND_NUMBER (+) = COMPOUND_MANAGEMENT_BATCH.COMPOUND_NUMBER "/>
+			</Table_Relationships>
+		</Database>
+	</Databases>
+	<Mandatory_Result_Fields>
+		<Field Display_Name="Reagent Name"/>
+		<Field Display_Name="Molecular Formula"/>
+		<Field Display_Name="Molecular Weight"/>
+	</Mandatory_Result_Fields>
+	<MyReagents_Mandatory_Result_Fields>
+		<Field Display_Name="Reagent Name"/>
+		<Field Display_Name="Molecular Formula"/>
+		<Field Display_Name="Molecular Weight"/>
+		<Field Display_Name="Salt Code"/>
+		<Field Display_Name="Salt Equivs"/>
+		<Field Display_Name="Chirality Code"/>
+		<Field Display_Name="Notebook Ref"/>
+		<Field Display_Name="Batch Number"/>
+		<Field Display_Name="Parent Batch Number"/>
+		<Field Display_Name="Parent Molecular Weight"/>
+		<Field Display_Name="Batch Comment"/>
+		<Field Display_Name="Batch Storage Comment"/>
+		<Field Display_Name="Batch Hazard Comment"/>
+		<Field Display_Name="Vendor Name"/>
+		<Field Display_Name="Purity"/>
+		<Field Display_Name="Density"/>
+		<Field Display_Name="Concentration"/>
+		<Field Display_Name="Melting Point"/>
+		<Field Display_Name="Boiling Point"/>
+		<Field Display_Name="Registry#"/>
+		<Field Display_Name="Physical Form"/>
+		<Field Display_Name="Compound State"/>
+		<Field Display_Name="Protection Code"/>
+		<Field Display_Name="Reg Status"/>
+		<Field Display_Name="Project Tracking Code"/>
+		<Field Display_Name="Precursors"/>
+		<Field Display_Name="CAS Number"/>
+	</MyReagents_Mandatory_Result_Fields>
+	<Text_Structure_Relationships>
+		<Text_Structure_Relationship Text="CompoundManagement" Structure="/StockRoom/GTN_RS" Relation="COMPOUND_MANAGEMENT_BATCH.COMPOUND_NUMBER"/>
+		<Text_Structure_Relationship Text="CompoundManagement" Structure="/StockRoom/SND_ST" Relation="COMPOUND_MANAGEMENT_BATCH.COMPOUND_NUMBER"/>
+		<Text_Structure_Relationship Text="CPI" Structure="Reference/MDL/ACD" Relation="CHEMICAL.CH_MDLNUM"/>
+	</Text_Structure_Relationships>
+</ReagentsDatabaseInfo>

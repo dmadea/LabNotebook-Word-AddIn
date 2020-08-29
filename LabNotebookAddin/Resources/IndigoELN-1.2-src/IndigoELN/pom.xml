@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.epam.indigo.eln</groupId>
+    <artifactId>IndigoELN</artifactId>
+    <version>1.2</version>
+    
+    <packaging>pom</packaging>
+
+    <properties>
+        <slf4j.version>1.7.10</slf4j.version>
+        <spring.version>3.2.8.RELEASE</spring.version>
+        <httpclient.version>3.1</httpclient.version>
+        <servlet-api.version>2.5</servlet-api.version>
+    </properties>
+
+    <profiles>
+        <profile>
+            <id>clean</id>
+            <activation><activeByDefault>true</activeByDefault></activation>
+            <properties>
+                <service.implementation.file>service_clean.properties</service.implementation.file>
+            </properties>
+        </profile>
+        <profile>
+            <id>epam</id>
+            <properties>
+                <service.implementation.file>service_epam.properties</service.implementation.file>
+            </properties>
+        </profile>
+    </profiles>
+    
+    <modules>
+    
+        <module>AnalyticalService</module>
+        <module>ChemistryService</module>
+        <module>ChloracnegenService</module>
+        <module>Common</module>
+        <module>CompoundService</module>
+        <module>DesignService</module>
+        <module>DesktopClient</module>
+        <module>LoggingService</module>
+        <module>ExternalServices</module>
+        <module>JobScheduler</module>
+        <module>ReagentService</module>
+        <module>RegistrationManager</module>
+        <module>RegistrationService</module>
+        <module>ReportService</module>
+        <module>ServiceLocator</module>
+        <module>SessionService</module>
+        <module>SessionTokenService</module>
+        <module>SignatureService</module>
+        <module>StorageService</module>
+        <module>CodeTableService</module>
+        <module>ExternalCollaborator</module>
+
+        <module>EpamServices</module>
+        
+        <module>WebApplication</module>
+        
+    </modules>
+
+        <dependencies>
+
+            <!-- Commons -->
+
+            <dependency>
+                <groupId>commons-lang</groupId>
+                <artifactId>commons-lang</artifactId>
+                <version>2.6</version>
+            </dependency>
+            <dependency>
+                <groupId>commons-codec</groupId>
+                <artifactId>commons-codec</artifactId>
+                <version>1.2</version>
+            </dependency>
+
+            <!-- Logging -->
+
+            <dependency>
+                <groupId>commons-logging</groupId>
+                <artifactId>commons-logging</artifactId>
+                <version>1.2</version>
+                <scope>provided</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-log4j12</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>jcl-over-slf4j</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+
+        </dependencies>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-war-plugin</artifactId>
+                    <version>2.6</version>
+                </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>3.2</version>
+                    <configuration>
+                        <source>1.6</source>
+                        <target>1.6</target>
+                        <encoding>UTF-8</encoding>
+                    </configuration>
+                </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-ejb-plugin</artifactId>
+                    <version>2.5</version>
+                    <configuration>
+                        <ejbVersion>3.0</ejbVersion>
+                        <generateClient>true</generateClient>
+                        <clientExcludes>
+                            <clientExclude>com/**/web/**</clientExclude>
+                            <clientExclude>com/**/ejb/**</clientExclude>
+                            <clientExclude>com/**/dao/**</clientExclude>
+                            <clientExclude>com/**/jdbc/**</clientExclude>
+                            <clientExclude>com/**/query/**</clientExclude>
+                            <clientExclude>com/**/service/**</clientExclude>
+                            <clientExclude>com/**/utils/**</clientExclude>
+                        </clientExcludes>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+</project>

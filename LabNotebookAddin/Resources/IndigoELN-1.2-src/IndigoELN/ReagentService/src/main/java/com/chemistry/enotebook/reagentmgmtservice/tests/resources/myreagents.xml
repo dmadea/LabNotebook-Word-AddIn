@@ -1,0 +1,4009 @@
+<Reagents>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+)-2-CIS,4-TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+)-ABSCISIC
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+)-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+)-CIS,TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210486</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+)-COSTUNOLIDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+)ABSCISIC ACID (CIS-TRANS)
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-2-CIS-4-TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-2-CIS-4-TRANS-ABSCISSIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-ABA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-ABSCISIC ACID (CIS-TRANS)
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-ABSCISIC ACID CIS-TRANS ISOMER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-CIS, TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-CIS,TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-CIS-TRANS ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-CIS/TRANS ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)-DORMIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (+/-)CIS-TRANS ISOMER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00214244</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (-)-CIS, TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00134592</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (1AR-[1AR,4E,7AS,-10AS,-10BR])-2,3-6,7,7A,8,10A,10B-OCTAHYDRO-1A,5-DIMETHYL-8-METHYLENEOXIRENO[9,10]CYCLO DECA[1,2-B]FURAN-9(1AH)-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (2-CIS, 4-TRANS,1S)-5-(1-HYDROXY-2,6,6-TRIMETHYL)-4-OXO-2-CYCLOHEXEN-1-YL-3-METHYL-2,4-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (2-CIS,4-TRANS)-5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXO-2-CYCLOHEXEN-1-YL) -3-METHYL-2,4-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (2-CIS,4-TRANS)-5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXO-2-CYCLOHEXEN-1-YL)-3-METHYL-2,4-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (2-CIS,4-TRANS)-5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXO-2-CYCLOHEXEN-L-YL)-3-METHYL-2,4-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (2-CIS,4-TRANS, 1S)-5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXO-2-CYCLOHEXEN-1-YL)-3-METHYL-2,4-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00143276</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (BENZO-15-CROWN-5)-4'-CARBOXYLIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (JASMONAL H) ALPHA-N-HEXYL CINNAMIC ALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00467221</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (R)-6-METHOXY-2,5,7,8-TETRAMETHYLCHROMANE-2-CARBOXYLIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00467221</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (R)-TROLOX(TM) METHYL ETHER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (S)-5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXOCYCLOHEX-2-EN-1-YL)-3-METHYL-[2Z,4E]-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00171453</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (S)-6-METHOXY-2,5,7,8-TETRAMETHYLCHROMANE-2-CARBOXYLIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">99</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00171453</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (S)-TROLOX(TM) METHYL ETHER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">99</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00132890</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (TRANS, TRANS)-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00132890</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ (TRANS,TRANS)-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,1,1-(TRIHYDROXYMETHYL)PROPANE TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,1,1-(TRIHYDROXYMETHYL)PROPANE TRIACRYLATE*
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,1,1-TRIMETHYLOL PROPANE TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,1,1-TRIMETHYLOLPROPANE TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056083</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,2,3,4-TETRA-O-ACETYL-A,BETA-D-GLUCURONIC ACID, METHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00069834</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,2,3,4-TETRA-O-ACETYL-BETA-D-GLUCURONIC ACID, METHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056902</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">344.382</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1,2-O-ISOPROPYLIDENE-5-O-P-TOLUENESULFONYL-ALPHA-D-XYLOFURANOSE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00173875</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1-ETH-1-YNYL-4-(HEPTYLOXY)BENZENE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00041580</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 1-PHENYL-3-ETHYL-1-HEPTYN-3-OL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 12,13-EOXY-3ALPHA, 7ALPHA, 15-TRIHYDROXYTRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 12,13-EPOXY-3ALPHA, 7ALPHA, 15-TRIHYDROXYTRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00133673</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 12,13-EPOXY-3ALPHA,4BETA,7ALPHA,15-TETRAHYDROXYTRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078791</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 12,13-EPOXY-4BETA-HYDROXY-TRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261841</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2',3'-DIMETHOXY-3-(1,3-DIOXAN-2-YL)PROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261842</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2',4'-DIMETHOXY-3-(1,3-DIOXAN-2-YL)PROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261843</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2',5'-DIMETHOXY-3-(1,3-DIOXAN-2-YL)PROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261844</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2',6'-DIMETHOXY-3-(1,3-DIOXAN-2-YL)PROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841125</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2'-CARBOETHOXY-2,2-DIMETHYLBUTYROPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841083</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2'-CARBOETHOXY-3,3-DIMETHYLBUTYROPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320136</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2,2-DIMETHYL-4-OXO-4-(3,4,5-TRIMETHYLPHENYL)BUTRYIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00143276</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2,3,5,6,8,9,11,12-OCTAHYDRO-1,4,7,10,13-BENZOPENTAOXACYCLO PENTADECIN-15-CARBOXYLIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00143276</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2,3,5,6,8,9,11,12-OCTAHYDRO-1,4,7,10,13-BENZOPENTAOXACYCLOPENTADECIN-15-CARBOXYLIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00219361</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2,3,5-TRI(ACETYLOXY)-6-(FORMYLOXYMETHYL)TETRAHYDRO-2H-PYRAN-4-YL ACETATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00192180</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2,3-(4-FORMYLBENZO)-1,4,7,10,13-PENTAOXACYCLOPENTADEC-2-ENE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03411910</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.386</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-(3-ALLYL)-4-PENTEN-1-YL-TOSLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-CIS,4-TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-CIS-4-TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-ETHYL-2-(HYDROXYMETHYL)-1,3-PROPANEDIOL TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-ETHYL-2-(HYDROXYMETHYL)-1,3-PROPANEDIOL TRIACRYLATE*
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-ETHYL-2-HYDROXYMETHYL-1,3-PROPANEDIOL TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00026887</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-PHENETHYL-MALONIC ACID DIETHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">98</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00026887</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-PHENYLETHYL-MALONIC ACID-DIETHYLESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">98</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00026887</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 2-PHENYLETHYLMALONIC ACID DIETHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">98</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261845</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3',4'-DIMETHOXY-3-(1,3-DIOXAN-2-YL)PROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261846</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3',5'-DIMETHOXY-3-(1,3-DIOXAN-2-YL)PROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841126</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3'-CARBOETHOXY-2,2-DIMETHYLBUTYROPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841084</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3'-CARBOETHOXY-3,3-DIMETHYLBUTYROPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03424253</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3,5-DIMETHOXY-4-(3-METHYL-BUTENOXYL)-BENZOATE METHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261823</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(1,3-DIOXAN-2-YL)-2'-ETHOXYPROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261824</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(1,3-DIOXAN-2-YL)-4'-ETHOXYPROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261816</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(1,3-DIOXAN-2-YL)-4'-ETHYLPROPIOPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841043</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(3,5-DIMETHOXYBENZYL)CYCLOHEXANONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00173763</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(4-N-PENTYLBENZOYL)PROPIONIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00100658</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(4-N-PENTYLOXYBENZOYL)PROPIONIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03424822</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-(4-TERT-BUTYL-PHENYL)-3-OXO-PROPIONIC ACID ETHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00041580</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-ETHYL-1-PHENYL-1-HEPTYN-3-OL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03844422</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3-OXO-4-(3,4,5-TRIMETHOXY-PHENYL)-BUTYRIC ACID ETHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00133673</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3ALPHA,4BETA,7ALPHA,15-TETRAHYDROXY-12,13-EPOXYTRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3ALPHA,7ALPHA,15-TRICHYDROXY-12,13-EPOXYTRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 3ALPHA,7ALPHA,15-TRIHYDROXY-12,13-EPOXYTRICHOTHEC-9-EN-8-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841127</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4'-CARBOETHOXY-2,2-DIMETHYLBUTYROPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841085</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4'-CARBOETHOXY-3,3-DIMETHYLBUTYROPHENONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00143276</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4'-CARBOXYBENZO-15-CROWN-5
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00192180</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4'-FORMYLBENZO-15-CROWN 5-ETHER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00192180</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4'-FORMYLBENZO-15-CROWN-5
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00143276</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4-CARBOXYBENZO-15-CROWN-5
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00778615</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4-CARBOXYMETHYL-2,2-DIMETHYL-4-PHENYLTETRAHYDROPYRAN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00173875</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4-N-HEPTYLOXYPHENYLACETYLENE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00173763</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4-OXO-4-(4-N-PENTYLPHENYL)BUTYRIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00100658</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4-OXO-4-(4-PENTYLOXYPHENYL)BUTYRIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00173763</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 4-OXO-4-(4-PENTYLPHENYL)BUTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID04115382</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5,5,8,8-TETRAMETHYL-5,6,7,8-TETRAHYDRO-2-NAPHTHALENECARBOXYLIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00060680</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5,7-DIISOPROPYL-3,4-DIHYDROCOUMARIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00132890</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXOCYCLOHEX-2-EN-1-YL)-3-METHYL-(2E,4E)-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00011660</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5-(1-HYDROXY-2,6,6-TRIMETHYL-4-OXOCYCLOHEX-2-ENYL)-3-METHYLPENTA-2,4-DIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260996</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5-(4-N-BUTOXYPHENYL)-5-OXOVALERIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260957</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5-(4-N-BUTYLPHENYL)-5-OXOVALERIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260962</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5-(4-T-BUTYLPHENYL)-5-OXOVALERIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 5-[1-HYDROXY-2,6,6-TRIMETHYL-4-OXOCYCLOHEX-2-EN-1-YL]-3-METHYL-[2Z,4E]-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320034</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-(3,5-DIMETHYL-4-METHOXYPHENYL)-6-OXOHEXANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260954</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-(4-ISOPROPYLPHENYL)-6-OXOHEXANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02090155</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-(TERT-BUTYL)-7,8-DIHYDROXY-2,2-DIMETHYL-2,3-DIHYDRO-4H-CHROMEN-4-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00101946</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.385</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-METHOXYBICYCLO[2.2.1]HEPT-2-YL 4-METHYLBENZENE-1-SULFONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260993</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-OXO-6-(4-ISOPROPOXYPHENYL)HEXANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260988</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-OXO-6-(4-N-PROPOXYPHENYL)HEXANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260950</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 6-OXO-6-(4-N-PROPYLPHENYL)HEXANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261029</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2,3-DIMETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261032</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2,4-DIMETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261035</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2,5-DIMETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320025</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2,5-DIMETHYLPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261040</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2,6-DIMETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260981</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2-ETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311635</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(2-METHOXYBENZOYL)HEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261043</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(3,4-DIMETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320030</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(3,4-DIMETHYLPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261048</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(3,5-DIMETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320055</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(3,5-DIMETHYLPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311620</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(3-METHOXYBENZOYL)HEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260985</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(4-ETHOXYPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02260947</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(4-ETHYLPHENYL)-7-OXOHEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311626</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 7-(4-METHOXYBENZOYL)HEPTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311635</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-(2-METHOXYPHENYL)-8-OXOOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320042</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-(2-METHYLPHENYL)-8-OXOOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311620</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-(3-METHOXYPHENYL)-8-OXOOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320047</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-(3-METHYLPHENYL)-8-OXOOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311626</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-(4-METHOXYPHENYL)-8-OXOOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320050</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-(4-METHYLPHENYL)-8-OXOOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00039610</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-BENZOYLOCTANOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">98</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00238543</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ 8-HYDROXYASTEROLIDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ A-HEXYLCINNAMALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ A-HEXYLCINNAMIC ALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ A-N-HEXYL-B-PHENYLACROLEIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ABA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ABK
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ABSCISIC ACID RACEMIC
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ABSCISIN II
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ AGEFLEX TMPTA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00046915</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ALANTOLACTONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00046915</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ALLANTOLACTONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ALPHA-HEXYLCINNAMALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ALPHA-HEXYLCINNAMIC ALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ALPHA-N-HEXYL-BETA-PHENYLACROLEIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ALPHA-N-HEXYLCINNAMALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CompoundManagement">
+  <Field Display_Name="COMPOUND_NUMBER" Data_Type="java.lang.String">CP-011333</Field> 
+  <Field Display_Name="MOLECULAR_FORMULA" Data_Type="java.lang.String">C10H17N</Field> 
+  <Field Display_Name="MOLECULAR_WEIGHT" Data_Type="java.math.BigDecimal">151.25</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ AMANTADINE
+  ]]> 
+  </Field>
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03844826</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O8</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">328.315</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ANDROSIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02183594</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.387</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ APHS
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00778615</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ASINEX-REAG BAS 1312632
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00238543</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ATRACTYLENOLIDE III
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210477</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ATRACTYLONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02178095</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ AURORA KA-1951
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02178095</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ AURORA KA-1952
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02178302</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ AURORA KA-2173
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02092971</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.387</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ BETA-(S-BENZYL)MERCAPTO-BETA,BETA-CYCLOPENTAMETHYLENE PROPIONIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CompoundManagement">
+  <Field Display_Name="COMPOUND_NUMBER" Data_Type="java.lang.String">UK-002452-01</Field> 
+  <Field Display_Name="MOLECULAR_FORMULA" Data_Type="java.lang.String">C10H19N</Field> 
+  <Field Display_Name="MOLECULAR_WEIGHT" Data_Type="java.math.BigDecimal">189.731</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ BOMYLAMINE HCL
+  ]]> 
+  </Field>
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210587</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CANELLAL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01408492</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CBI-BB ZERO/001858
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CompoundManagement">
+  <Field Display_Name="COMPOUND_NUMBER" Data_Type="java.lang.String">CP-045538</Field> 
+  <Field Display_Name="MOLECULAR_FORMULA" Data_Type="java.lang.String">C10H16N6S</Field> 
+  <Field Display_Name="MOLECULAR_WEIGHT" Data_Type="java.math.BigDecimal">252.343</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CIMETIDINE
+  ]]> 
+  </Field>
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00672790</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CINNAMYL CAPROATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00059327</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CITRIC ACID TRIALLYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210262</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ COSTUNOLIDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210486</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ COSTUS LACTONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843656</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOBUTYL 2-(2,3-DIMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843708</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOBUTYL 2-(2,4-DIMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843760</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOBUTYL 2-(2,5-DIMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843812</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOBUTYL 2-(2,6-DIMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843864</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOBUTYL 2-(3,4-DIMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843916</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOBUTYL 2-(3,5-DIMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210486</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLODECA[B]FURAN-2(3H)-ONE, 3A,4,5,8,9,11A-HEXAHYDRO-6,10-DIMETHYL-3-METHYLENE-, [3AS-(3AR*,6E,10E,11AS*)]-
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841355</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL 2,3-DIMETHYLPHENYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841356</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL 2,4-DIMETHYLPHENYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00447621</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL 2,5-DIMETHYLPHENYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841357</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL 2,6-DIMETHYLPHENYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841358</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL 3,4-DIMETHYLPHENYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03841359</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL 3,5-DIMETHYLPHENYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00965990</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYL-2-PHENETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00269807</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOHEXYLMANDELIC ACID, METHYLESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843093</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(2-METHOXYPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843011</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(2-METHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843247</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.388</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(2-THIOMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843145</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(3-METHOXYPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843027</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(3-METHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843195</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(4-METHOXYPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843042</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(4-METHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03843295</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.388</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ CYCLOPENTYL 2-(4-THIOMETHYLPHENYL)ETHYL KETONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00038519</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.386</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ D-(-)-S-BENZOYL-BETA-MERCAPTOISOBUTYRIC ACID T-BUTYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DEOXYNIVALENOL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00213910</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DICYCLOPENTENYLOXYETHYL ACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00026887</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL (2-PHENYLETHYL)MALONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">98</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00026887</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL 2-(PHENYLETHYL)MALONOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">98</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02258513</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL 2-BENZYLSUCCINATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00040759</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL 2-ETHYL-2-PHENYLMALONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00157074</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL 4-METHOXYBENZYLMALONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02258513</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL BENZYLSUCCINATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00040759</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL ETHYLPHENYLMALONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00040759</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL ETHYLPHENYLPROPANEDIOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00040759</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DIETHYL PHENYL ETHYL MALONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DL-CIS,TRANS-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DORMIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ DORMINE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320311</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 2,2-DIMETHYL-4-(2-METHOXYPHENYL)-4-OXOBUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320309</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 2,2-DIMETHYL-4-(3-METHOXYPHENYL)-4-OXOBUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320310</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 2,2-DIMETHYL-4-(4-METHOXYPHENYL)-4-OXOBUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320317</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.386</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 2,2-DIMETHYL-4-OXO-4-(4-THIOMETHYLPHENYL)BUTRYATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00085061</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.452</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 3-(1-N-BUTYLTHIO)-4-OXO-4,5,6,7-TETRAHYDROBENZO[C]THIOPHENE-1-CARBOXYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00085061</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.452</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 3-(BUTYLTHIO)-4-OXO-4,5,6,7-TETRAHYDROBENZO[C]THIOPHENE-1-CARBOXYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00085068</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.452</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 3-(ETHYLTHIO)-6,6-DIMETHYL-4-OXO-4,5,6,7-TETRAHYDROBENZO[C]THIOPHENE-1-CARBOXYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320201</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 4-(3,5-DIMETHYL-4-METHOXYPHENYL)-4-OXOBUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261285</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 4-(3,5-DIMETHYLPHENYL)-2-METHYL-4-OXOBUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261384</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 4-(4-ISOPROPYLPHENYL)-4-OXOBUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261426</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 4-OXO-4-(4-ISOPROPOXYPHENYL)BUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00568431</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 4-OXO-4-(4-N-PROPOXYPHENYL)BUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261379</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 4-OXO-4-(4-N-PROPYLPHENYL)BUTYRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261459</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(2,3-DIMETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261465</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(2,4-DIMETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261474</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(2,5-DIMETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320189</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(2,5-DIMETHYLPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261479</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(2,6-DIMETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261414</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(2-ETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00666098</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(3,4-DIMETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320197</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(3,4-DIMETHYLPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261488</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(3,5-DIMETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320224</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(3,5-DIMETHYLPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261418</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(4-ETHOXYPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02261375</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 5-(4-ETHYLPHENYL)-5-OXOVALERATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00085068</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.452</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6,6-DIMETHYL-3-ETHYLTHIO-4-OXO-4,5,6,7-TETRAHYDROBENZO[C]THIOPHENE-1-CARBOXYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311631</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6-(2-METHOXYPHENYL)-6-OXOHEXANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320210</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6-(2-METHYLPHENYL)-6-OXOHEXANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311611</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6-(3-METHOXYPHENYL)-6-OXOHEXANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320215</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6-(3-METHYLPHENYL)-6-OXOHEXANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01311625</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6-(4-METHOXYPHENYL)-6-OXOHEXANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01320219</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 6-(4-METHYLPHENYL)-6-OXOHEXANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00672059</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL 7-OXO-7-PHENYLHEPTANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03425831</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL-2-(METHYLETHYL)-3-OXO-4-PHENYLBUTANOATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">99</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00798022</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYL-P-CUMINYL GLYCIDATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00213910</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYLENE GLYCOL DICYCLOPENTENYL ETHER ACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00040759</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ETHYLPHENYLMALONIC ACID DIETHYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ FEMA 2569
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ FEMA#2569
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00080519</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ GLYCEROL TRIMETHACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00080519</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ GLYCERYL TRIMETHACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ HCA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00046915</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ HELENINE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ HEXAGLYCERINE TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03092974</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ HEXYL CINNAMATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ HEXYL CINNAMIC ALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ HEXYLCINNAMALDEHYDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ISOALANFOLACTONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">80</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ISOALANTOLACTONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">80</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ISOHELENIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">80</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00583856</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ISOPENTYL-4-METHOXYCINNAMATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01735881</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">232.321</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ISOVELLERAL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00006989</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ JASMONAL H
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ KAYARAD TMPTA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01103223</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ LABOTEST-BB LT00138010
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01104362</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ LABOTEST-BB LT00233325
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01104624</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ LABOTEST-BB LT00239189
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CompoundManagement">
+  <Field Display_Name="COMPOUND_NUMBER" Data_Type="java.lang.String">CP-004226</Field> 
+  <Field Display_Name="MOLECULAR_FORMULA" Data_Type="java.lang.String">C10H20O</Field> 
+  <Field Display_Name="MOLECULAR_WEIGHT" Data_Type="java.math.BigDecimal">156.27</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ MENTHOL
+  ]]> 
+  </Field>
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056083</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 1,2,3,4-TETRA-O-ACETYL-A,BETA-D-GLUCOPYRANOSIDURONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00056083</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 1,2,3,4-TETRA-O-ACETYL-ALPHA-D-GLUCOPYRANOSIDURONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00069834</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 1,2,3,4-TETRA-O-ACETYL-BETA-D-GLUCOPYRANOSIDURONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00069834</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 1,2,3,4-TETRA-O-ACETYL-BETA-D-GLUCOPYRANURONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00069834</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 1,2,3,4-TETRA-O-ACETYL-BETA-D-GLUCURONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02682954</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O10 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">424.445</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 2,3-O-DIMETHYLSULFONYL-5-O-BENZOYL-D-RIBOFURANOSE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02683356</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 4,6-O-BENZYLIDENE-3-O-METHYL-A-D-MANNOPYRANOSIDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00085122</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.452</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 6,6-DIMETHYL-4-OXO-3-(PROPYLTHIO)-4,5,6,7-TETRAHYDROBENZO[C]THIOPHENE-1-CARBOXYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00085122</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3 S2</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.452</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL 6,6-DIMETHYL-4-OXO-3-PROPYLTHIO-4,5,6,7-TETRAHYDROBENZO[C]THIOPHENE-1-CARBOXYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00269807</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL ALPHA-CYCLOHEXYLMANDELATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00069834</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O11</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">376.312</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ METHYL-1,2,3,4-TETRA-O-ACETYL-BETA-D-GLUCURONATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01321185</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ MONO-N-HEPTYL PHTHALATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00210587</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ MUZIGADIAL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00041580</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ N-BUTYL ETHYL PHENYLPROPYNYL CARBINOL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">97</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00133673</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ NIVALENOL
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02183594</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O2 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.387</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ O-(ACETOXYPHENYL)HEPT-2-YNYL SULFIDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00134592</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ PARTHENOLIDE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00134592</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ PARTHENOLIDE, TANACETUM PARTHENIUM
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ PBI 58
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01321185</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ PHTHALIC ACID MONO-N-HEPTYL ESTER
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00075619</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RAC-ABSCISIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01708976</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM AM UG B010
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00032312</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM AM UG B263
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03003298</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM DK HC S334
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03003370</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM DK HW 0008
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03003371</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM DK HW 0009
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03003498</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM DK HW 0181
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID03003523</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O5</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">280.318</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ RARECHEM DK HW 0210
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ S-ABA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00835505</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O S Si</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">276.474</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ SPECS AE-508/36396008
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01463564</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ SPECS AE-562/12222382
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00233338</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ SPECS CIF3303
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00974043</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7 S</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">344.382</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ SPECS CIF6529
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00555232</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ SPECS CIF7615
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CompoundManagement">
+  <Field Display_Name="COMPOUND_NUMBER" Data_Type="java.lang.String">CP-008671</Field> 
+  <Field Display_Name="MOLECULAR_FORMULA" Data_Type="java.lang.String">C10H12BrCl</Field> 
+  <Field Display_Name="MOLECULAR_WEIGHT" Data_Type="java.math.BigDecimal">247.564</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TEST NAME CP REG JG181B
+  ]]> 
+  </Field>
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02066243</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TIMTEC-BB ST2007762
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID01408492</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">216.322</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TIMTEC-BB TBB020973
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TMPTA
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00059327</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O7</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">312.316</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TRIALLYL CITRATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078791</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TRICHOTHECOLONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00008628</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ TRIMETHYLOLPROPANE TRIACRYLATE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00078777</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O6</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">296.317</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ VOMITOXIN
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID02256172</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ ZELINSKY-BB BMA0417
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00134592</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ [1AR-(1AR*,4E,7AS*,10AS*,-10BR*)]-2,3-6,7,7A,8,10A,10B-OCTAHYDRO-1A,5-DIMETHYL-8-METHYLENEOXIRENO[9,10]CYCLO DECA[1,2-B]FURAN-9(1AH)-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00134592</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O3</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">248.32</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ [1AR-(1AR,4E,7AS,10AS,-10BR)]-2,3-6,7,7A,8,10A,10B-OCTAHYDRO-1A,5-DIMETHYL-8-METHYLENEOXIRENO[9,10]CYCLODECA[1,2-B]FURAN-9(1AH)-ONE
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00214244</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ [R]-5-[1-HYDROXY-2,6,6-TRIMETHYL-4-OXOCYCLOHEX-2-EN-1-YL]-3-METHYL-[2Z,4E]-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+<Reagent>
+<Fields Database_Name="CPI">
+  <Field Display_Name="CH_MDLNUM" Data_Type="java.lang.String">ID00066545</Field> 
+  <Field Display_Name="CH_MFRML" Data_Type="java.lang.String">C15 H20 O4</Field> 
+  <Field Display_Name="CH_MWGT" Data_Type="java.math.BigDecimal">264.319</Field> 
+<Field Display_Name="COMPOUND_NAME" Data_Type="java.lang.String">
+<![CDATA[ [S]-5-[1-HYDROXY-2,6,6-TRIMETHYL-4-OXOCYCLOHEX-2-EN-1-YL]-3-METHYL-[2Z,4E]-PENTADIENOIC ACID
+  ]]> 
+  </Field>
+  <Field Display_Name="PRD_CONCENTRATION" Data_Type="java.math.BigDecimal">100</Field> 
+  <Field Display_Name="PRD_PURIHI" Data_Type="java.math.BigDecimal">100</Field> 
+  </Fields>
+  </Reagent>
+  </Reagents>
