@@ -2,5 +2,5 @@
 /packages/*
 /Dll chemdraw/*
 Class1.cs
-*/indigo-dotnet-1.2.3.r0-win/*
-*/IndigoELN-1.2-src/*
+/LabNotebookAddin/Resources/indigo-dotnet-1.2.3.r0-win/*
+/LabNotebookAddin/Resources/IndigoELN-1.2-src/*

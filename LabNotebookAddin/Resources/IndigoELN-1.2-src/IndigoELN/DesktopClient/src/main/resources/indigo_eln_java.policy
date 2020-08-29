@@ -1,9 +1,0 @@
-
-grant  {
-  permission java.lang.RuntimePermission "createClassLoader";
-  permission java.lang.RuntimePermission "getClassLoader";
-  permission java.lang.RuntimePermission "accessDeclaredMembers";
-  permission java.security.AllPermission;
-
-};
-
